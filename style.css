@@ -1,0 +1,23 @@
+.char {
+    color: darkblue;
+    margin-left: 475px;
+    font-family: calc();
+}
+h1 {
+    color:darkblue;
+    font-family: calc();
+}
+#contacts {
+    color: indigo;
+    font-family: calc();
+    font-size: 20px;
+}
+.photo {
+    margin-left: 475px;
+}
+.pum {
+    margin-left: 440px;
+}
+h2 {
+    font-size: 25px;
+}
